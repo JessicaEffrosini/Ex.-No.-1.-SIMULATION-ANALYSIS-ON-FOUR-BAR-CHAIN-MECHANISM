@@ -54,8 +54,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:L Jessica Effrosini
+### Register Number: 212224110026
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
